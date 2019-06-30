@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+@media screen and (min-width: 720px){
+  .app{
+    max-width: 720px;
+    margin: auto;
+  }
+}
+
+.headerInput{
+  margin-left: 20%;
+}
+
+.addCurrencySelect{
+  width: 75%;
+  outline: none;
+}
+
+.flex{
+  display: flex;
+  justify-content: space-around;
+}
+
+.addBtn{
+  margin: 2% 25%;
+  width: 50%;
+}
